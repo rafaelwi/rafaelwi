@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/rafaelwi/rafaelwi/master/assets/welcome.gif"/></p>
+<div>
+  <img src="https://raw.githubusercontent.com/rafaelwi/rafaelwi/master/assets/penguin.gif" align="right" />
+  <pre>
+    👨‍💻 Software Engineering Extraordinare 
+    💻 Avid Computer User
+    🐍 The Icon of Python
+    👾 Working on cool personal projects all the time
+    🔨 Looking for new opportunities!</pre>
+</div>
 
-<!--
-**rafaelwi/rafaelwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<kbd> <br> <a href="https://www.linkedin.com/in/rafaelwi">Link up with me on Linkedin</a> <br> </kbd>
+<kbd> <br> <a href="https://raw.githubusercontent.com/rafaelwi/rafaelwi/master/assets/resume.pdf">Check out my resume</a> <br> </kbd>  
+<kbd> <br> <a href="https://rafael.gg">I have a personal site too</a> <br> </kbd>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Start of CuterCounter Code -->
+<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hexofqkd&nd=6&style=23" border="0" alt="website counter"></a>
+<!-- End of CuterCounter Code -->
+
+------------
+[Link]: https://www.linkedin.com/in/rafaelwi
+[Resume]: https://raw.githubusercontent.com/rafaelwi/rafaelwi/master/assets/resume.pdf
