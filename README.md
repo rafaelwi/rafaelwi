@@ -17,7 +17,7 @@
 <br><br>
 
 <!-- Start of CuterCounter Code -->
-<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hexofqkd&nd=6&style=23" border="0" alt="website counter"></a>
+<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hxofqkx&nd=6&style=23" border="0" alt="visitor counter"></a>
 <!-- End of CuterCounter Code -->
 
 ------------
