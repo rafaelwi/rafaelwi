@@ -11,7 +11,7 @@
 
 <br>
 <kbd> <br> <a href="https://www.linkedin.com/in/rafaelwi">Link up with me on Linkedin</a> <br> </kbd>
-<kbd> <br> <a href="https://raw.githubusercontent.com/rafaelwi/rafaelwi/master/assets/resume.pdf">Check out my resume</a> <br> </kbd>  
+<kbd> <br> <a href="https://raw.githubusercontent.com/rafaelwi/rafaelwi/827c884b5b0c39bf6aedc698603e5ab9545a0b7a/assets/resume.pdf" target="_blank">Check out my resume</a> <br> </kbd>  
 <kbd> <br> <a href="https://rafael.gg">I have a personal site too</a> <br> </kbd>
 
 <br><br>
